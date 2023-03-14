@@ -1,3 +1,7 @@
+// use modern ES6 imports so this works properly with modules
+import $ from "jquery";
+const jQuery = $;
+
 /*! slidereveal - v1.1.2 - 2016-05-16
 * https://github.com/nnattawat/slidereveal
 * Copyright (c) 2016 Nattawat Nonsung; Licensed MIT */
