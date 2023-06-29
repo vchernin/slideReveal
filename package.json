@@ -1,11 +1,11 @@
 {
-  "name": "slidereveal",
+  "name": "@vchernin/slidereveal",
   "version": "1.1.2",
   "description": "Slide Reveal",
   "keywords": [
     "jquery-plugin"
   ],
-  "homepage": "https://github.com/nnattawat/slidereveal",
+  "homepage": "https://github.com/vchernin/slidereveal",
   "main": "dist/jquery.slidereveal.js",
   "author": {
     "name": "Nattawat Nonsung",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nnattawat/slidereveal.git"
+    "url": "https://github.com/vchernin/slidereveal.git"
   },
   "licenses": [
     {
